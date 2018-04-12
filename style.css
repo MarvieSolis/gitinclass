@@ -1,0 +1,64 @@
+header {
+    background-color: #333333;
+}
+
+header h1 {
+    color: #eee;
+    font-size: 28px;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+#head-bio {
+    float: left;
+    width: 30%;
+    margin: 10px;
+}
+
+#main-bio {
+    float: left;
+    width: 40%;
+    margin: 10px;
+}
+
+#contact-info {
+    float: left;
+    width: 20%;
+    line-height: 1.5;
+    margin: 30px;
+}
+
+#contact-info a {
+    color: #d21034;
+}
+
+#bio-image {
+    float: left;
+    width: 200px;
+}
+
+
+}
+
+body {
+    background-color: #efeee7;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #333333;
+    margin:0;
+    padding:0;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
